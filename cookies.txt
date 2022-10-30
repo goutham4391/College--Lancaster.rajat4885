@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lancaster.ac.uk	TRUE	/cemore/	FALSE	1999999999	ppwp_wp_session	6c4c6e493aa693557aac80cb2da2bef8%7C%7C1666784220%7C%7C1666783860
+lancaster.tfaforms.net	TRUE	/	FALSE	1999999999	CAKEPHP	acbf7e8fc9c441cc3aed03ac5e169c2a
+lancaster.tfaforms.net	TRUE	/	FALSE	1999999999	HttpOnly	1
+lancaster.tfaforms.net	TRUE	/	FALSE	1999999999	AWSALB	wNSYjB8ZUdvReDMrZzghJISdRYxZ8W5nM2gS8V75569eLrSj8+1/mfvoUc6O5GEz5BPnQPFPx6R1+CA3/cfK6up0zPwIe2OxxSvEERQfsUqfWx501BED6kaeoMX7
+lancaster.tfaforms.net	TRUE	/	FALSE	1999999999	AWSALBCORS	wNSYjB8ZUdvReDMrZzghJISdRYxZ8W5nM2gS8V75569eLrSj8+1/mfvoUc6O5GEz5BPnQPFPx6R1+CA3/cfK6up0zPwIe2OxxSvEERQfsUqfWx501BED6kaeoMX7
+lancaster.tfaforms.net	TRUE	/	FALSE	1999999999	SameSite	None
+
